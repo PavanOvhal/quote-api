@@ -82,7 +82,7 @@ app.post('/api/quotes', (req, res) => {
 app.post('/api/quotes/bulk', (req, res) => {
   const newQuotes = req.body;
 
-  if (!Array.isArray(newQuotes)) {
+  if (!Array.isArray(newQuotes))  {
     return res.status(400).json({ message: 'Expected an array of quotes' });
   }
 
