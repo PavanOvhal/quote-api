@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "text": "Believe in yourself, bro!",
+    "author": "Pavan"
+  },
+  {
+    "id": 2,
+    "text": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 3,
+    "text": "Do or do not. There is no try.",
+    "author": "Yoda"
+  },
+  {
+    "id": 4,
+    "text": "The future belongs to those who believe in their dreams.",
+    "author": "Pavan"
+  },
+  {
+    "id": 5,
+    "text": "The best way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 6,
+    "text": "Don't let yesterday take up too much of today.",
+    "author": "Will Rogers"
+  },
+  {
+    "id": 7,
+    "text": "It's not whether you get knocked down, it's whether you get up.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "id": 8,
+    "text": "If you are working on something exciting, it will keep you motivated.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 9,
+    "text": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett"
+  },
+  {
+    "id": 10,
+    "text": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "id": 11,
+    "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "id": 12,
+    "text": "Either you run the day or the day runs you.",
+    "author": "Jim Rohn"
+  },
+  {
+    "id": 13,
+    "text": "Setting goals is the first step in turning the invisible into the visible.",
+    "author": "Tony Robbins"
+  },
+  {
+    "id": 14,
+    "text": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "author": "Walt Whitman"
+  },
+  {
+    "id": 15,
+    "text": "If you can dream it, you can do it.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 16,
+    "text": "Success is not final, failure is not fatal.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 17,
+    "text": "If you can dream it, you can do it.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 18,
+    "text": "Success is not final, failure is not fatal.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 19,
+    "text": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": 20,
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson"
+  },
+  {
+    "id": 21,
+    "text": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon"
+  },
+  {
+    "id": 22,
+    "text": "Opportunities don't happen. You create them.",
+    "author": "Chris Grosser"
+  },
+  {
+    "id": 23,
+    "text": "Everything you’ve ever wanted is on the other side of fear.",
+    "author": "George Addair"
+  },
+  {
+    "id": 24,
+    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "id": 25,
+    "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 26,
+    "text": "Whether you think you can or think you can’t, you’re right.",
+    "author": "Henry Ford"
+  },
+  {
+    "id": 27,
+    "text": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "id": 28,
+    "text": "Try not to become a man of success. Rather become a man of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 29,
+    "text": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+    "author": "William Butler Yeats"
+  },
+  {
+    "id": 30,
+    "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 31,
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 32,
+    "text": "Quality means doing it right when no one is looking.",
+    "author": "Henry Ford"
+  },
+  {
+    "id": 33,
+    "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "author": "Roy T. Bennett"
+  },
+  {
+    "id": 34,
+    "text": "Work hard in silence, let your success be your noise.",
+    "author": "Frank Ocean"
+  },
+  {
+    "id": 35,
+    "text": "Do what you can with all you have, wherever you are.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 36,
+    "text": "The best preparation for tomorrow is doing your best today.",
+    "author": "H. Jackson Brown Jr."
+  },
+  {
+    "id": 37,
+    "text": "If you want to lift yourself up, lift up someone else.",
+    "author": "Booker T. Washington"
+  },
+  {
+    "id": 38,
+    "text": "What you do speaks so loudly that I cannot hear what you say.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 39,
+    "text": "If you really look closely, most overnight successes took a long time.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 40,
+    "text": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett"
+  },
+  {
+    "id": 41,
+    "text": "A goal is a dream with a deadline.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "id": 42,
+    "text": "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett"
+  },
+  {
+    "id": 43,
+    "text": "Doubt kills more dreams than failure ever will.",
+    "author": "Suzy Kassem"
+  },
+  {
+    "id": 44,
+    "text": "Perseverance is not a long race; it is many short races one after the other.",
+    "author": "Walter Elliot"
+  },
+  {
+    "id": 45,
+    "text": "You don't have to be great to start, but you have to start to be great.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "id": 46,
+    "text": "Discipline is the bridge between goals and accomplishment.",
+    "author": "Jim Rohn"
+  },
+  {
+    "id": 47,
+    "text": "Only those who dare to fail greatly can ever achieve greatly.",
+    "author": "Robert F. Kennedy"
+  },
+  {
+    "id": 48,
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "id": 49,
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "id": 50,
+    "text": "Action is the foundational key to all success.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "id": 51,
+    "text": "Setting goals is the first step in turning the invisible into the visible.",
+    "author": "Tony Robbins"
+  },
+  {
+    "id": 52,
+    "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "id": 53,
+    "text": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "id": 54,
+    "text": "If you don’t build your dream, someone will hire you to help build theirs.",
+    "author": "Tony Gaskins"
+  },
+  {
+    "id": 55,
+    "text": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers"
+  },
+  {
+    "id": 56,
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 57,
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 58,
+    "text": "Your limitation—it’s only your imagination.",
+    "author": "Unknown"
+  },
+  {
+    "id": 59,
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Unknown"
+  },
+  {
+    "id": 60,
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Unknown"
+  },
+  {
+    "id": 61,
+    "text": "Great things never come from comfort zones.",
+    "author": "Unknown"
+  },
+  {
+    "id": 62,
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Unknown"
+  },
+  {
+    "id": 63,
+    "text": "Success doesn’t just find you. You have to go out and get it.",
+    "author": "Unknown"
+  },
+  {
+    "id": 64,
+    "text": "The harder you work, the luckier you get.",
+    "author": "Gary Player"
+  },
+  {
+    "id": 65,
+    "text": "Dream bigger. Do bigger.",
+    "author": "Unknown"
+  },
+  {
+    "id": 66,
+    "text": "Don’t stop when you’re tired. Stop when you’re done.",
+    "author": "Marilyn Monroe"
+  },
+  {
+    "id": 67,
+    "text": "Wake up with determination. Go to bed with satisfaction.",
+    "author": "George Lorimer"
+  },
+  {
+    "id": 68,
+    "text": "Do something today that your future self will thank you for.",
+    "author": "Sean Patrick Flanery"
+  },
+  {
+    "id": 69,
+    "text": "Little things make big days.",
+    "author": "Isabel Marant"
+  },
+  {
+    "id": 70,
+    "text": "It’s going to be hard, but hard does not mean impossible.",
+    "author": "Art Williams"
+  },
+  {
+    "id": 71,
+    "text": "Don’t wait for opportunity. Create it.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "id": 72,
+    "text": "Sometimes we’re tested not to show our weaknesses, but to discover our strengths.",
+    "author": "Unknown"
+  },
+  {
+    "id": 73,
+    "text": "The key to success is to focus on goals, not obstacles.",
+    "author": "Unknown"
+  },
+  {
+    "id": 74,
+    "text": "Success is what happens after you have survived all your mistakes.",
+    "author": "Anora Lee"
+  },
+  {
+    "id": 75,
+    "text": "Only put off until tomorrow what you are willing to die having left undone.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "id": 76,
+    "text": "Keep your eyes on the stars, and your feet on the ground.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 77,
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "id": 78,
+    "text": "Do what you feel in your heart to be right – for you’ll be criticized anyway.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 79,
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama"
+  },
+  {
+    "id": 80,
+    "text": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "id": 81,
+    "text": "He who opens a school door, closes a prison.",
+    "author": "Victor Hugo"
+  },
+  {
+    "id": 82,
+    "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 83,
+    "text": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 84,
+    "text": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 85,
+    "text": "It is never too late to be what you might have been.",
+    "author": "George Eliot"
+  },
+  {
+    "id": 86,
+    "text": "Success is getting what you want. Happiness is wanting what you get.",
+    "author": "Dale Carnegie"
+  },
+  {
+    "id": 87,
+    "text": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "id": 88,
+    "text": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "id": 89,
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 90,
+    "text": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle"
+  },
+  {
+    "id": 91,
+    "text": "Wise men speak because they have something to say; fools because they have to say something.",
+    "author": "Plato"
+  },
+  {
+    "id": 92,
+    "text": "In three words I can sum up everything I’ve learned about life: it goes on.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": 93,
+    "text": "The best way out is always through.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": 94,
+    "text": "If opportunity doesn’t knock, build a door.",
+    "author": "Milton Berle"
+  },
+  {
+    "id": 95,
+    "text": "You can’t use up creativity. The more you use, the more you have.",
+    "author": "Maya Angelou"
+  },
+  {
+    "id": 96,
+    "text": "A champion is afraid of losing. Everyone else is afraid of winning.",
+    "author": "Billie Jean King"
+  },
+  {
+    "id": 97,
+    "text": "Only in the darkness can you see the stars.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "id": 98,
+    "text": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 99,
+    "text": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "id": 100,
+    "text": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "author": "Og Mandino"
+  },
+  {
+    "id": 101,
+    "text": "Limit your 'always' and your 'nevers'.",
+    "author": "Amy Poehler"
+  },
+  {
+    "id": 102,
+    "text": "Try to be a rainbow in someone’s cloud.",
+    "author": "Maya Angelou"
+  },
+  {
+    "id": 103,
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 104,
+    "text": "Act as though it were impossible to fail.",
+    "author": "Dorothea Brande"
+  },
+  {
+    "id": 105,
+    "text": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius"
+  },
+  {
+    "id": 106,
+    "text": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "id": 107,
+    "text": "Don’t compromise yourself. You’re all you’ve got.",
+    "author": "Janis Joplin"
+  },
+  {
+    "id": 108,
+    "text": "It's not whether you get knocked down, it's whether you get up.",
+    "author": "Vince Lombardi"
+  }
+]
